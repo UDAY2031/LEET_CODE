@@ -2,19 +2,11 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int n = nums.size();
+        int a = 0;
 
         for(int i = 0; i < n; i++){
-            int num = nums[i];
-            int count = 0;
-            for(int j = 0; j < n; j++){
-                if(nums[j] == num){
-                    count++;
-                }
-            }
-            if(count == 1){
-                return num;
-            }
+            a ^= nums[i];
         }
-        return -1;
+        return a;
     }
 };
