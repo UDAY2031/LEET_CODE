@@ -5,7 +5,7 @@ public:
         if(n == 0) return 0;
 
         int longest = 1;
-        unordered_set<int> st;
+        unordered_set<int> st(nums.begin(), nums.end());
 
         for(int i = 0; i < n; i++){
             st.insert(nums[i]);
