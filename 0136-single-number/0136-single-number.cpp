@@ -2,11 +2,11 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int n = nums.size();
-        int a = 0;
+        int ans = 0;
 
         for(int i = 0; i < n; i++){
-            a ^= nums[i];
+            ans = ans ^ nums[i];
         }
-        return a;
+        return ans;
     }
 };
