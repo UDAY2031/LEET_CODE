@@ -1,9 +1,9 @@
 class Solution {
 public:
-    void helper(vector<int>& nums, vector<int>& path, set<vector<int>>& results){
+    void helper(vector<int>& nums, vector<int>& path, vector<vector<int>>& results){
         int n = nums.size();
         if(n == 0){
-            results.insert(path);
+            results.push_back(path);
             return;
         }
         for(int i = 0; i < n; i++){
@@ -21,10 +21,16 @@ public:
             path.pop_back();
         }
     }
+    void dup(vector<vector<int>>& results){
+        sort(results.begin(), results.end());
+        auto it = unique(results.begin(), results.end());
+        results.erase(it, results.end());
+    }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        set<vector<int>> results;
+        vector<vector<int>> results;
         vector<int> path;
         helper(nums, path, results);
-        return vector<vector<int>> (results.begin(), results.end());
+        dup(results);
+        return results;
     }
 };
