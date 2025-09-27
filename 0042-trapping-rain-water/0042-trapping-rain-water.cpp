@@ -2,26 +2,20 @@ class Solution {
 public:
     int trap(vector<int>& height) {
         int n = height.size();
-        int left = 0,right = n-1;
-        int leftmax = 0, rightmax = 0;
-        int trappedwater  = 0;
+        int left = 0, right = n-1;
+        int leftmax = height[left], rightmax = height[right];
+        int water_trapped = 0;
         while(left < right){
-            if(height[left] < height[right]){
-                if(height[left] >= leftmax){
-                    leftmax = height[left];
-                }else{
-                    trappedwater += leftmax - height[left];
-                }
+            if(leftmax < rightmax){
                 left++;
+                leftmax = max(leftmax, height[left]);
+                water_trapped += leftmax - height[left];
             }else{
-                if(height[right] >= rightmax){
-                    rightmax = height[right];
-                }else{
-                    trappedwater += rightmax - height[right];
-                }
                 right--;
+                rightmax = max(rightmax, height[right]);
+                water_trapped += rightmax - height[right];
             }
         }
-        return trappedwater;
+        return water_trapped;
     }
 };
