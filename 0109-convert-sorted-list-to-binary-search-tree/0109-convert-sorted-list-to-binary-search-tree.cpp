@@ -22,7 +22,9 @@
 class Solution {
 public:
     TreeNode* helper(vector<int>& arr, int si, int ei){
-        if(si > ei) return nullptr;
+        if(si > ei){
+            return nullptr;
+        }
 
         int mid = si + (ei - si) / 2;
 
@@ -35,7 +37,7 @@ public:
     }
     TreeNode* sortedListToBST(ListNode* head) {
         vector<int> arr;
-
+        
         while(head != NULL){
             arr.push_back(head->val);
             head = head->next;
