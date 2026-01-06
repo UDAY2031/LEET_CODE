@@ -38,15 +38,15 @@ public:
             }
             res.push_back(level);
         }
-        int mini = res[0][0];
+        int maxi = res[0][0];
         int a = 0;
         for(int i = 1; i < res.size(); i++){
             int ans = 0;
             for(int j = 0; j < res[i].size(); j++){
                 ans += res[i][j];
             }
-            if(ans > mini){
-                mini = ans;
+            if(ans > maxi){
+                maxi = ans;
                 a = i;
             }
         }
