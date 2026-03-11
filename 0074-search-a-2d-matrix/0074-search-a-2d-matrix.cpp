@@ -4,17 +4,11 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
 
-        int row = 0, col = m-1;
-
-        while(row < n && col >= 0){
-            int start = matrix[row][col];
-
-            if(start == target){
-                return true;
-            }else if(start > target){
-                col--;
-            }else{
-                row++;
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(matrix[i][j] == target){
+                    return true;
+                }
             }
         }
         return false;
