@@ -75,6 +75,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0283-move-zeroes](https://github.com/UDAY2031/LEET_CODE/tree/main/0283-move-zeroes/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/UDAY2031/LEET_CODE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UDAY2031/LEET_CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/UDAY2031/LEET_CODE/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -123,6 +124,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/UDAY2031/LEET_CODE/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
