@@ -74,6 +74,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0283-move-zeroes](https://github.com/UDAY2031/LEET_CODE/tree/main/0283-move-zeroes/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UDAY2031/LEET_CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/UDAY2031/LEET_CODE/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -126,4 +127,8 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/UDAY2031/LEET_CODE/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/UDAY2031/LEET_CODE/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
