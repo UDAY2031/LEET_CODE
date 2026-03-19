@@ -79,6 +79,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UDAY2031/LEET_CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/UDAY2031/LEET_CODE/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UDAY2031/LEET_CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | [0074-search-a-2d-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UDAY2031/LEET_CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UDAY2031/LEET_CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/UDAY2031/LEET_CODE/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UDAY2031/LEET_CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
