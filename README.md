@@ -78,6 +78,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | [0875-koko-eating-bananas](https://github.com/UDAY2031/LEET_CODE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UDAY2031/LEET_CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/UDAY2031/LEET_CODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UDAY2031/LEET_CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/UDAY2031/LEET_CODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -91,6 +92,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | [0074-search-a-2d-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UDAY2031/LEET_CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UDAY2031/LEET_CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/UDAY2031/LEET_CODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## String
@@ -119,6 +121,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/UDAY2031/LEET_CODE/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
