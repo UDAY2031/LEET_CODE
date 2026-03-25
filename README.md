@@ -81,6 +81,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/UDAY2031/LEET_CODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UDAY2031/LEET_CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/UDAY2031/LEET_CODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/UDAY2031/LEET_CODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | [1582-special-positions-in-a-binary-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UDAY2031/LEET_CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/UDAY2031/LEET_CODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/UDAY2031/LEET_CODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -128,6 +130,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/UDAY2031/LEET_CODE/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UDAY2031/LEET_CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/UDAY2031/LEET_CODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +148,8 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/UDAY2031/LEET_CODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/UDAY2031/LEET_CODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
