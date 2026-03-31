@@ -87,6 +87,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UDAY2031/LEET_CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/UDAY2031/LEET_CODE/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | [1980-find-unique-binary-string](https://github.com/UDAY2031/LEET_CODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/UDAY2031/LEET_CODE/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/UDAY2031/LEET_CODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/UDAY2031/LEET_CODE/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +158,8 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/UDAY2031/LEET_CODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/UDAY2031/LEET_CODE/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->
