@@ -79,6 +79,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UDAY2031/LEET_CODE/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1848-minimum-distance-to-the-target-element](https://github.com/UDAY2031/LEET_CODE/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/UDAY2031/LEET_CODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UDAY2031/LEET_CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/UDAY2031/LEET_CODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
