@@ -81,6 +81,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/UDAY2031/LEET_CODE/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/UDAY2031/LEET_CODE/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/UDAY2031/LEET_CODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UDAY2031/LEET_CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/UDAY2031/LEET_CODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/UDAY2031/LEET_CODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -132,6 +133,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | ------- | ------- |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UDAY2031/LEET_CODE/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/UDAY2031/LEET_CODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/UDAY2031/LEET_CODE/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -155,6 +157,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2463-minimum-total-distance-traveled](https://github.com/UDAY2031/LEET_CODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/UDAY2031/LEET_CODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/UDAY2031/LEET_CODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Enumeration
