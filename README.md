@@ -83,6 +83,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | [1980-find-unique-binary-string](https://github.com/UDAY2031/LEET_CODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/UDAY2031/LEET_CODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/UDAY2031/LEET_CODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/UDAY2031/LEET_CODE/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/UDAY2031/LEET_CODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/UDAY2031/LEET_CODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Greedy
@@ -124,6 +125,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/UDAY2031/LEET_CODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/UDAY2031/LEET_CODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/UDAY2031/LEET_CODE/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/UDAY2031/LEET_CODE/tree/main/0875-koko-eating-bananas/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/UDAY2031/LEET_CODE/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
