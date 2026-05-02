@@ -133,6 +133,7 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0788-rotated-digits](https://github.com/UDAY2031/LEET_CODE/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UDAY2031/LEET_CODE/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UDAY2031/LEET_CODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/UDAY2031/LEET_CODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -171,4 +172,8 @@ If you like this repository, please consider **starring** it! It helps a lot ✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/UDAY2031/LEET_CODE/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0788-rotated-digits](https://github.com/UDAY2031/LEET_CODE/tree/main/0788-rotated-digits/) | Medium |
 <!---LeetCode Topics End-->
